@@ -1,6 +1,12 @@
+# Archivos generados por scripts (mantener en ambas carpetas)
 1080i/script-skinvariables-generator-includes*.xml
 1080i/script-skinvariables-skinusers.xml
 1080i/script-skinshortcuts-includes.xml
+720p/script-skinvariables-generator-includes*.xml ← ★ Nuevo
+720p/script-skinvariables-skinusers.xml           ← ★ Nuevo
+720p/script-skinshortcuts-includes.xml            ← ★ Nuevo
+
+# Archivos de diseño y temporales (excluir en todas las carpetas)
 *.xcf
 *~
 Thumbs.db
